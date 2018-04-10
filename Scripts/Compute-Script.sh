@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #This script Install all the component required to build compute node
-#----->Please run this script under adminstrative rights<-------
+#----->Please run this script under adminstrative rights<-----
 #This script install compute,ceilometer,swift and cinder
 
 
